@@ -1,0 +1,24 @@
+{
+  "trackers": {
+    "ga": {
+      "default": [
+        {
+          "host": "qa.bcbsma.vitalschoice.mdx.med",
+          "key": "UA-47856709-26"
+        },
+        {
+          "host": "uat.bcbsma.vitalschoice.com",
+          "key": "UA-47856709-26"
+        },
+        {
+          "host": "stg.bcbsma.vitalschoice.com",
+          "key": "UA-47856709-26"
+        },
+        {
+          "host": "bcbsma.vitalschoice.com",
+          "key": "UA-47856709-27"
+        }
+      ]
+    }
+  }
+}
